@@ -1,8 +1,7 @@
 
 function Home(){
-    return <div>LCAD</div>
+    return <div>Lcad</div>
 }
 
 
-
-export default Home()
+export default Home
