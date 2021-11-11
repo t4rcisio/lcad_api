@@ -4,7 +4,7 @@
   "description": "Interface web para a criação de novos usuários de forma automática",
   "main": "index.js",
   "scripts": {
-    "test": "next dev"
+    "dev": "next dev"
   },
   "repository": {
     "type": "git",
